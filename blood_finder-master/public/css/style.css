@@ -1,0 +1,191 @@
+
+
+
+.btn-min-width-150 {
+    min-width: 150px;
+}
+
+.btn-min-width-200 {
+    min-width: 200px;
+}
+.btn-min-width-250 {
+    min-width: 250px;
+}
+.btn-width-100p {
+    width: 100%;
+}
+
+.btn-margin-tb-15 {
+    margin: 15px 0;
+}
+
+.btn-fw {
+    width: 100%;
+}
+
+.btn-red {
+    background: red;
+    color: white;
+    padding: 15px;
+}
+.btn-red:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.btn-grey {
+    background: #D3D3D3;
+    color: black;
+}
+
+.btn-grey:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.btn-radio-label {
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+.reservation-icon {
+    font-size:90px;
+    color: maroon;
+    text-align: center;
+    margin: 70px 0;
+}
+
+
+.row-divider {
+    border-top: 2px solid white;
+    border-bottom: 1px solid lightgray;
+    padding: 10px 0;
+    /* margin-top: 5px; */
+    background: #F0F0F0;
+}
+
+.quantity {
+    margin-top: 1px;
+    margin-bottom: 30px;
+}
+
+.facility {
+    font-size: 18px;
+}
+
+.blood-type-selector {
+    margin-top: 25px;
+}
+
+.add-admin-select-address {
+    /* width: 185px; */
+    margin: 25px 0;
+}
+
+.add-admin-select-address select {
+    width: 185px;
+}
+
+.update-blood-record-select {
+    margin-bottom: 35px;
+}
+.update-blood-record-select select {
+    width:100%;
+}
+
+
+/* ADMIN LOGIN, REGISTRATION, CONTROLS, */
+.logo-admin {
+    text-align: center;
+    margin: 45px 0;
+}
+
+.title-admin {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.textfield-admin {
+    text-align: center;
+}
+
+/* .textfield-admin input[type="text"],
+.textfield-admin input[type="password"] {
+    width: 50%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-bottom: 1px solid #d3d3d3;
+    background-color: none;
+    color: black;
+    padding: 5px 10px;
+    margin: 25px 0;
+} */
+
+.textfield-admin {
+    border: none;
+    border-bottom: 1px darkgrey solid;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.btn-admin {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: red;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: none;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.btn-admin-a a,
+.btn-admin-a a:hover {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: red;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: none;
+    padding: 9px 9px 10px 9px;
+    text-decoration: none;
+}
+
+.btn-admin-control {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 14px 28px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    text-align: center;
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+
+.dropdown-1 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: none;
+    color: #d3d3d3;
+    width: 20%;
+    text-align: right;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+/* ADMIN LOGIN, REGISTRATION, CONTROLS, */
